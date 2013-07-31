@@ -40,6 +40,5 @@ Thumbs.db
 
 # Dev files #
 #############
-config.rb
 .sass-cache
 .htaccess
